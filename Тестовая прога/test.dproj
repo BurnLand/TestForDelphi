@@ -46,6 +46,10 @@
 			<DCCReference Include="index.pas">
 				<Form>Form1</Form>
 			</DCCReference>
+			<DCCReference Include="DataModule.pas">
+				<Form>DataModule1</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
 			<BuildConfiguration Include="Base">
 				<Key>Base</Key>
 			</BuildConfiguration>
